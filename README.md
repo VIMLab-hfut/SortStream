@@ -1,7 +1,7 @@
 # SortStream: Sort-aware Gaussian-weighted Streamgraph
 Here is the source code for the SortStream
 
-You can find the layout algorithm in Layout_Ours.js\n
+You can find the layout algorithm in Layout_Ours.js
 
 The input json file should be formatted as below:
 ```
